@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Lucky Dog Amimal Resuce (LDAR) 501c(3)
+## Lucky Dog Animal Rescue (LDAR) 501c(3)
 
 - `luckydoganimalrescue/p6-ldar-image-brander-infra` - Lucky Dog Animal Rescue 501c(3) AWS infra to brand an image
 - `luckydoganimalrescue/p6-ldar-image-brander-website` - Lucky Dog Animal Rescue 501c(3) NextJS/React website front end to upload images for branding
